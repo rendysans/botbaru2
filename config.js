@@ -48,10 +48,10 @@ global.socialm = "GitHub: Bintangp02" //ur github or insta name
 global.location = "indonesia,jateng,semarang" //ur location
 
 //bot bombdy
-global.botname = "kim ~ MD" //ur bot name
+global.botname = "BINTANG ~ MD" //ur bot name
 global.websitex = "https://github.com/bintangp02" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "kim Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.packname = "BNTG~MD Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Bintangp02"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
@@ -90,7 +90,7 @@ global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
-global.sessionName = "session"
+global.sessionName = "session1"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
