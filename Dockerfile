@@ -18,4 +18,4 @@ ENV PM2_SECRET_KEY 7yg6gv2apd911uu
 
 COPY . .
 EXPOSE 5000
-CMD ["pm2-runtime", "app.js"]
+CMD ["pm2-runtime", "index.js"]
