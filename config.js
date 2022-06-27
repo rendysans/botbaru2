@@ -42,13 +42,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
+global.ownername = "OWNER KIM BOT"
 global.ytname = "YT: BPBOT" //ur yt chanel name
 global.socialm = "GitHub: Bintangp02" //ur github or insta name
 global.location = "indonesia,jateng,semarang" //ur location
 
 //bot bombdy
-global.botname = "kim ~ MD" //ur bot name
+global.botname = "KIM ~ MD" //ur bot name
 global.websitex = "https://github.com/bintangp02" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "kim Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
