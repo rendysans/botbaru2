@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6289616938280'] //ur owner number
+global.owner = ['6281387524120'] //ur owner number
 global.ownername = "Rend,s"
 global.ytname = "YT: X0X25" //ur yt chanel name
 global.socialm = "GitHub: rendysans" //ur github or insta name
@@ -53,14 +53,14 @@ global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Rendy bot Sticker\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "โนเฟรนดิ"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['6289616938280'] //ur owner tag
-global.ownernummenu = ['ur number6281387524120'] //ur owner number in menu and all
+global.themeemoji = "✔️"
+global.reactmoji = "🥶"
+global.ownertag = ['6281387524120'] //ur owner tag
+global.ownernummenu = ['+6281387524120'] //ur owner number in menu and all
 global.watermark = "Rends Bot Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/BNzjj2Cl9Vy80v9tRJXB8l"
+global.linkz2 = "https://chat.whatsapp.com/BNzjj2Cl9Vy80v9tRJXB8l"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
